@@ -11,3 +11,6 @@ Non è possibile impostare orari di spegnimento relativi al giorno successivo.
 
 
 Inizialmente sviluppato con C++ nella versione console, poi in python con una GUI.
+
+![1](https://github.com/fabri44k/Simple-Shutdown-Scheduler--Timer-di-spegnimento/assets/95636592/f669fa47-3785-435d-b940-c7e2d73596e2)
+![2](https://github.com/fabri44k/Simple-Shutdown-Scheduler--Timer-di-spegnimento/assets/95636592/9af2f913-c5bc-4513-87c0-8eb34180f1b4)
