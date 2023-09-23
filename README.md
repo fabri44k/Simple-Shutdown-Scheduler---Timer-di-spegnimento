@@ -1,4 +1,4 @@
-Simple Shutdown Scheduler - Timer di spegnimento
+Simple Shutdown Scheduler - Timer di spegnimento per Windows.
 
 Semplice programma per impostare un timer per lo spegnimento del pc usando il comando shutdown di Windows.
 
